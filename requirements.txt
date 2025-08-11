@@ -1,0 +1,6 @@
+pyadi-iio
+numpy
+scipy
+matplotlib
+python-dotenv
+pyyaml
